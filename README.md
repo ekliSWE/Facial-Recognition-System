@@ -1,1 +1,4 @@
 # Facial-Recognition-System
+
+
+Face recognition has become increasingly important over the last decades. In this project, we will take a deeper look at the two major phases in a regular facial recognition system: facial detection and facial recognition. Haar Cascade is an effective object detection method which can be used for the purpose of the detection stage in our system, while Principal Component Analysis (PCA) algorithm will handle the recognition stage. We will run several testing scenarios to understand how the Haar Cascade algorithm would perform under different conditions or how certain factor could impact its performance. Then we will utilize a sample photo database to test out how accurate the PCA algorithm can be when the conditions of the input training photos are relatively ideal.
